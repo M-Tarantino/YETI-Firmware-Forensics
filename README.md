@@ -1,4 +1,4 @@
-# YETI — Yielding Extraction & Transformation Interface
+# YETI — Firmware Forensics 
 
 > **Strategic Status & Access** > YETI is currently in active development. I am evaluating various strategic paths for its future, including an Open-Source release, commercial licensing, or an acqui-hire model.  
 > 
